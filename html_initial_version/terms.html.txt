@@ -1,0 +1,5 @@
+<tr>
+<td align="left" valign="top" nowrap="nowrap" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #d78825;  line-height:140%; border-top:#e6e6e6 1px solid; padding-top:13px; padding-bottom:10px; padding-right:10px;">{}</td>
+<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #3c3c3c; line-height:140%; border-top:#e6e6e6 1px solid; padding-top:13px; padding-bottom:10px">{}</td>
+<td align="right" valign="top" nowrap="nowrap" style="font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #3c3c3c; line-height:140%; border-top:#e6e6e6 1px solid; padding-top:13px; padding-bottom:10px"><a href="https://bbs.pku.edu.cn/v2/{}" title="立即查看" target="_blank" style="color:#0076a8; text-decoration:none; padding-left:10px;">&raquo;&nbsp;立即查看</a></td>
+</tr>

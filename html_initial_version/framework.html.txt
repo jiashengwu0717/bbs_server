@@ -1,0 +1,58 @@
+<html>
+<body>
+
+<head>
+<meta charset="utf-8" />
+<style type="text/css">a {}</style>          <!--在此用花括号也是迫不得已-->
+</head>
+<!--解决汉字乱码问题，同时去除链接下划线-->
+
+<table width="600” cellspacing="0" cellpadding="0" border="0" align="center">
+  <tbody>
+    <tr>
+      <td align="center" style="font-family: Arial, Helvetica, sans-serif; color: #999999; font-weight: normal; "><font size="3" face="Arial"><i>Here is the information you need.</i></font></td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center" width="600">
+	<tbody>
+		<tr>
+			<td align="center"><font color="#7f7f7f" face="Arial" size="2"><a href="https://bbs.pku.edu.cn/v2/hot-topic.php" style="color:#0076a8;" target="_blank">查看全站热点话题</a> </font></td>
+		</tr>
+	</tbody>
+</table>
+
+<table cellpadding="0" cellspacing="0" align="center" width="100%">
+	<tr>
+     <td align="center">
+        <table border="0" cellpadding="0" cellspacing="0" width="650">
+           <tr>
+             <td style="padding-left:60px; padding-top:15px; padding-bottom:10px;"><img src="https://bbs.pku.edu.cn/v2/images/logo.jpg" width="80" height="70" alt="北大未名"></td>
+             <td style="padding-top:15px; padding-bottom:10px;""><font color="#330066" face="Arial" size="20"><a href="http://lzxwjswyc.pythonanywhere.com/bbs_server/" target="_blank"><strong>BBSserver</strong></a> </font></td>
+           </tr>
+        </table>
+     </td>
+</tr>
+<tr>
+     <td height="12" bgcolor="orange"></td>
+</tr>
+
+<tr>
+     <td align="center" bgcolor="#FFFFF4" style="border-bottom:1px solid #cccccc; padding-top:4px;">
+
+{}                         <!--添加pretable内容-->
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="600">
+	<tbody>
+		<tr>
+			<td align="center">
+			<font style="font-family:microsoft yahei;font-size:13px;color: #7f7f7f;">您的邮箱 {} 订阅了此邮件。&nbsp;<br>
+			您可以随时<a href="http://lzxwjswyc.pythonanywhere.com/login/" style="font-family:microsoft yahei;font-size:13px;;color: #0076a8;">管理</a>您的tags偏好，并为我们提供用户反馈。&nbsp;<br>
+			<a href="http://lzxwjswyc.pythonanywhere.com/bbs_server/" style="font-family:microsoft yahei;font-size:13px;;color: #0076a8;">BBSServer</a> <font style="font-family:microsoft yahei;font-size:11px;;color: #7f7f7f;">感谢您的支持！</font></td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>
